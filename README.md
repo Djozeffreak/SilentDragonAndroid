@@ -27,7 +27,7 @@ SilentDragon Android is an Android frontend for the desktop [SilentDragon](https
 The minimum supported Android version is 4.4.x KitKat. There are two ways to install:
 
 1. Via the [Google Play Store](https://play.google.com/store/apps/details?id=org.myhush.silentdragon).
-1. Direct APK install available at the [Releases page](https://github.com/MyHush/SilentDragonAndroid/releases). You will need to allow `Install from untrusted sources` on your Android phone in order to install from this source.
+1. Direct APK install available at the [Releases page](https://git.hush.is/hush/SilentDragonAndroid/releases). You will need to allow `Install from untrusted sources` on your Android phone in order to install from this source.
 
 ## Running SilentDragon
 
